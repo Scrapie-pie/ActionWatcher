@@ -13,6 +13,8 @@ const { createUpdateTimer, msToTime } = require('./libs/common.js')
 //
 // })
 
+//test
+
 function runApp() {
   const events = ['mousemove', 'keydown', 'mousewheel', 'mousedown'];
   let idleDelay = 60 * 2.5; // minutes
