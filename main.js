@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const ioHook = require('iohook');
 const fs = require('fs');
 const path = require('path')
@@ -12,8 +13,6 @@ const { createUpdateTimer, msToTime } = require('./libs/common.js')
 //
 //
 // })
-
-//test
 
 function runApp() {
   const events = ['mousemove', 'keydown', 'mousewheel', 'mousedown'];
