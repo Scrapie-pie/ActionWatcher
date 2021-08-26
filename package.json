@@ -8,7 +8,7 @@
     "start": "node main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "./index.js",
+  "bin": "./ActionWatcher.js",
   "author": "",
   "repository": {
     "type": "git",
