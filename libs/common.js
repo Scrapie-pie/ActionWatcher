@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 function createUpdateTimer(cb, delay) {
   let timer;
 
@@ -18,8 +20,58 @@ function msToTime(ms) {
   else return days + " Days"
 }
 
+function saveAsJson(file, obj, sync = false) {
+  if (sync) {
+    try {
+      fs.writeFileSync(file, JSON.stringify(obj, null, 2));
+    } catch(err) {
+      console.error(err);
+    }
+  } else {
+    fs.writeFile(file, JSON.stringify(obj, null, 2), err => {
+      if (err) console.error(err);
+    });
+  }
+}
 
+function saveHistory(historyItem, sync = false) {
+  const file = './storage.json';
+  let storage;
+
+  if (sync) {
+    try {
+      storage = JSON.parse(fs.readFileSync(file, 'utf8'));
+      storage.history.push(historyItem);
+      saveAsJson(file, storage, true);
+    } catch(err) {
+      if (err.code === 'ENOENT') {
+        storage = { history: [historyItem] };
+        saveAsJson(file, storage, true);
+      } else {
+        return console.error(err);
+      }
+    }
+  } else {
+    fs.readFile(file, 'utf8', (err, content) => {
+      if (err) {
+        if (err.code === 'ENOENT') {
+          storage = { history: [historyItem] };
+          saveAsJson(file, storage);
+        } else {
+          return console.error(err);
+        }
+      } else {
+        storage = JSON.parse(content);
+        storage.history.push(historyItem);
+        saveAsJson(file, storage);
+      }
+    });
+  }
+
+  return storage;
+}
 
 
 exports.createUpdateTimer = createUpdateTimer;
 exports.msToTime = msToTime;
+exports.saveHistory = saveHistory;

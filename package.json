@@ -4,7 +4,6 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "ActionWatcher": "node main",
     "start": "node main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

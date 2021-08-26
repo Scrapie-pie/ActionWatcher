@@ -1,44 +1,148 @@
 {
   "history": [
     {
-      "startTimeOffline": "2021-08-25T17:41:33.452Z",
-      "endTimeOffline": "2021-08-25T17:41:40.532Z",
-      "diffTimeOffline": 7080
+      "startTimeOffline": "2021-08-26T12:55:31.015Z",
+      "endTimeOffline": "2021-08-26T12:55:46.856Z",
+      "timeOffline": 15841,
+      "timeOnline": 6451
     },
     {
-      "startTimeOffline": "2021-08-25T17:45:39.083Z",
-      "endTimeOffline": "2021-08-25T17:45:47.556Z",
-      "diffTimeOffline": 8473
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 8503
     },
     {
-      "startTimeOffline": "2021-08-25T17:46:41.004Z",
-      "endTimeOffline": "2021-08-25T17:46:52.268Z",
-      "diffTimeOffline": 11264
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 916
     },
     {
-      "startTimeOffline": "2021-08-25T17:46:53.467Z",
-      "endTimeOffline": "2021-08-25T17:47:12.091Z",
-      "diffTimeOffline": 18624
+      "startTimeOffline": "2021-08-26T12:56:51.013Z",
+      "endTimeOffline": "2021-08-26T12:56:57.207Z",
+      "timeOffline": 6194,
+      "timeOnline": 8048
     },
     {
-      "startTimeOffline": "2021-08-25T17:47:16.722Z",
-      "endTimeOffline": "2021-08-25T17:47:23.067Z",
-      "diffTimeOffline": 6345
+      "startTimeOffline": "2021-08-26T12:57:31.957Z",
+      "endTimeOffline": "2021-08-26T12:57:42.768Z",
+      "timeOffline": 10811,
+      "timeOnline": 34750
     },
     {
-      "startTimeOffline": "2021-08-25T17:48:28.027Z",
-      "endTimeOffline": "2021-08-25T17:49:07.059Z",
-      "diffTimeOffline": 39032
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 9863
     },
     {
-      "startTimeOffline": "2021-08-25T17:49:20.085Z",
-      "endTimeOffline": "2021-08-25T17:49:27.482Z",
-      "diffTimeOffline": 7397
+      "startTimeOffline": "2021-08-26T13:03:08.616Z",
+      "endTimeOffline": "2021-08-26T13:03:16.263Z",
+      "timeOffline": 7647,
+      "timeOnline": 9836
     },
     {
-      "startTimeOffline": "2021-08-25T17:51:12.457Z",
-      "endTimeOffline": "2021-08-25T17:54:26.930Z",
-      "diffTimeOffline": 194473
+      "startTimeOffline": "2021-08-26T13:03:16.907Z",
+      "endTimeOffline": "2021-08-26T13:03:32.679Z",
+      "timeOffline": 15772,
+      "timeOnline": 644
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 14744
+    },
+    {
+      "startTimeOffline": "2021-08-26T13:03:48.367Z",
+      "endTimeOffline": "2021-08-26T13:03:54.904Z",
+      "timeOffline": 6537,
+      "timeOnline": 5
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 1718
+    },
+    {
+      "startTimeOffline": "2021-08-26T13:05:56.176Z",
+      "endTimeOffline": "2021-08-26T13:06:04.049Z",
+      "timeOffline": 7873,
+      "timeOnline": 17
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 13216
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 19588
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 9103
+    },
+    {
+      "startTimeOffline": "2021-08-26T13:07:50.188Z",
+      "endTimeOffline": "2021-08-26T13:07:59.127Z",
+      "timeOffline": 8939,
+      "timeOnline": 12
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 6440
+    },
+    {
+      "startTimeOffline": "2021-08-26T13:10:42.505Z",
+      "endTimeOffline": "2021-08-26T13:11:06.896Z",
+      "timeOffline": 24391,
+      "timeOnline": 6822
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 16589
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 603
+    },
+    {
+      "startTimeOffline": "2021-08-26T13:22:39.890Z",
+      "endTimeOffline": "2021-08-26T13:22:52.568Z",
+      "timeOffline": 12678,
+      "timeOnline": 3693
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 4884
+    },
+    {
+      "startTimeOffline": "2021-08-26T13:23:11.154Z",
+      "endTimeOffline": "2021-08-26T13:23:42.523Z",
+      "timeOffline": 31369,
+      "timeOnline": 8
+    },
+    {
+      "startTimeOffline": null,
+      "endTimeOffline": null,
+      "timeOffline": null,
+      "timeOnline": 143
     }
   ]
 }
