@@ -1,0 +1,44 @@
+{
+  "history": [
+    {
+      "startTimeOffline": "2021-08-25T17:41:33.452Z",
+      "endTimeOffline": "2021-08-25T17:41:40.532Z",
+      "diffTimeOffline": 7080
+    },
+    {
+      "startTimeOffline": "2021-08-25T17:45:39.083Z",
+      "endTimeOffline": "2021-08-25T17:45:47.556Z",
+      "diffTimeOffline": 8473
+    },
+    {
+      "startTimeOffline": "2021-08-25T17:46:41.004Z",
+      "endTimeOffline": "2021-08-25T17:46:52.268Z",
+      "diffTimeOffline": 11264
+    },
+    {
+      "startTimeOffline": "2021-08-25T17:46:53.467Z",
+      "endTimeOffline": "2021-08-25T17:47:12.091Z",
+      "diffTimeOffline": 18624
+    },
+    {
+      "startTimeOffline": "2021-08-25T17:47:16.722Z",
+      "endTimeOffline": "2021-08-25T17:47:23.067Z",
+      "diffTimeOffline": 6345
+    },
+    {
+      "startTimeOffline": "2021-08-25T17:48:28.027Z",
+      "endTimeOffline": "2021-08-25T17:49:07.059Z",
+      "diffTimeOffline": 39032
+    },
+    {
+      "startTimeOffline": "2021-08-25T17:49:20.085Z",
+      "endTimeOffline": "2021-08-25T17:49:27.482Z",
+      "diffTimeOffline": 7397
+    },
+    {
+      "startTimeOffline": "2021-08-25T17:51:12.457Z",
+      "endTimeOffline": "2021-08-25T17:54:26.930Z",
+      "diffTimeOffline": 194473
+    }
+  ]
+}
